@@ -1,0 +1,23 @@
+.features .glyphicon{
+  font-size: 32px;
+  color: #E80C39;
+}
+.footer a{
+  color: black;
+}
+
+.btn-primary{
+  background-color: #E80C39;
+  border-color: #E80C39;
+
+}
+
+.btn-primary:hover {
+  background-color: #E80C39;
+  border-color: #E80C39;
+}
+/*#1849E8 lepa plava*/
+#logo{
+  width: 60%;
+  height: 100%;
+}
